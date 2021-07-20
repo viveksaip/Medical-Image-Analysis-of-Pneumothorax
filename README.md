@@ -17,20 +17,20 @@
 
 ### **UNet++**
 
-#### Predictions:
+#### Results
 
 ![Screenshot (861)](https://user-images.githubusercontent.com/34074339/126292915-8004ff66-427d-4500-b6ba-57a897705ecf.png)
 
 ### **Mask RCNN**
 
-#### Predictions:
+#### Results
 
 ![Picture5](https://user-images.githubusercontent.com/34074339/126341418-3b50cdd8-72ce-46ba-a4aa-619dd03943a9.png)
 
 ### **Fastai**
 
-#### Predictions:
-               Ground Truth                                       Prediction
+#### Results
+                Ground Truth                                        Prediction
 ![Picture6](https://user-images.githubusercontent.com/34074339/126341851-1c03ffe4-f1d8-4037-af3b-8406931638a9.png)
 
 
