@@ -1,4 +1,4 @@
-# Medical-Image-Analysis-of-Pneumothorax-Segmentation
+# Medical-Image-Analysis-of-Pneumothorax
 
 ## **Segmentation**
 
