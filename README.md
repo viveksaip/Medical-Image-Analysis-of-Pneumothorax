@@ -1,14 +1,5 @@
 # Medical-Image-Analysis-of-Pneumothorax
 
-## **Segmentation**
-
-### **UNet++**
-
-#### Predictions:
-
-![Screenshot (861)](https://user-images.githubusercontent.com/34074339/126292915-8004ff66-427d-4500-b6ba-57a897705ecf.png)
-
-
 ## **Classification**
 
 ### **Vision Transformers**
@@ -20,4 +11,19 @@
 #### Model process:
 
 ![ggg](https://user-images.githubusercontent.com/34074339/126296936-f5fa61d5-89bc-49de-b815-3586232e8e39.gif)
+
+
+## **Segmentation**
+
+### **UNet++**
+
+#### Predictions:
+
+![Screenshot (861)](https://user-images.githubusercontent.com/34074339/126292915-8004ff66-427d-4500-b6ba-57a897705ecf.png)
+
+### **Mask RCNN**
+
+#### Predictions:
+
+![Picture5](https://user-images.githubusercontent.com/34074339/126341418-3b50cdd8-72ce-46ba-a4aa-619dd03943a9.png)
 
