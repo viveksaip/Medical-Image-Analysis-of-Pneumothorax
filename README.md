@@ -30,7 +30,7 @@
 ### **Fastai**
 
 #### Predictions:
-                        
+                        Ground Truth                            Prediction
 ![Picture6](https://user-images.githubusercontent.com/34074339/126341851-1c03ffe4-f1d8-4037-af3b-8406931638a9.png)
 
 
