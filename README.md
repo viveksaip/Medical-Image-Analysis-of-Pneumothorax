@@ -27,3 +27,11 @@
 
 ![Picture5](https://user-images.githubusercontent.com/34074339/126341418-3b50cdd8-72ce-46ba-a4aa-619dd03943a9.png)
 
+### **Fastai**
+
+#### Predictions:
+                        
+![Picture6](https://user-images.githubusercontent.com/34074339/126341851-1c03ffe4-f1d8-4037-af3b-8406931638a9.png)
+
+
+
