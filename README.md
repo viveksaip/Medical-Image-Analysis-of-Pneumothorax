@@ -6,7 +6,7 @@ Segmentation
 
 Predictions:
 
-![Picture1](https://user-images.githubusercontent.com/34074339/126275919-5a67437d-58b6-41da-b91f-999132a153fb.png)
+![Screenshot (861)](https://user-images.githubusercontent.com/34074339/126292915-8004ff66-427d-4500-b6ba-57a897705ecf.png)
 
 
 Classification 
