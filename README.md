@@ -15,10 +15,9 @@ Classification
 
 Preprocessing:
 
-
 ![VT](https://user-images.githubusercontent.com/34074339/126175586-f8e1f625-0cfe-4413-949f-407da0f1e7e9.png)
 
 Model process:
 
+![ggg](https://user-images.githubusercontent.com/34074339/126296936-f5fa61d5-89bc-49de-b815-3586232e8e39.gif)
 
-![](https://1.bp.blogspot.com/-_mnVfmzvJWc/X8gMzhZ7SkI/AAAAAAAAG24/8gW2AHEoqUQrBwOqjhYB37A7OOjNyKuNgCLcBGAsYHQ/s1600/image1.gif)
